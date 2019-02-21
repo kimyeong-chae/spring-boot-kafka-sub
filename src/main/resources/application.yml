@@ -1,0 +1,6 @@
+server:
+  context-path: / 
+  port: 8080
+  
+kafka:
+  topic: test
